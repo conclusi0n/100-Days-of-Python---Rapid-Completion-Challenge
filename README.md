@@ -10,13 +10,13 @@ This repository is a personal challenge to complete the "100 Days of Python" ser
 
 ## Progress Tracker  
 Day 	Status	Completion Date 
-1	  pending 	
-2	  pending 	
-3	  pending 	
-4	  pending 	
-5	  pending 	
-6	  pending 	
-7	  pending 	
+1	  Completed✅ 	
+2	  Completed✅ 	
+3	  Completed✅ 	
+4	  Completed✅ 	
+5	  Completed✅ 	
+6	  Completed✅ 	
+7	  Completed✅ 	
 8	  pending 	
 9	  pending 	
 10	pending 	
