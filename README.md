@@ -22,8 +22,8 @@ Day 	Status	Completion Date
 10	  Completed✅ 	
 11	  Completed✅ 	
 12	  Completed✅ 	
-13	pending 	
-14	pending 	
+13	  Completed✅ 	
+14	  Completed✅ 	
 15	pending 	
 16	pending 	
 17	pending 	
@@ -110,7 +110,7 @@ Day 	Status	Completion Date
 98	pending 	
 99	pending 	
 100	pending 	
-dowing from this repo - https://github.com/phillipai/100-days-of-code-python
+dowing from this repo - https://github.com/conclusi0n/100-Days-of-Python---Rapid-Completion-Challenge
 ## Repository Structure  
 - **Day_X/**: Contains the code and notes for day `X`.  
 - **README.md**: Tracks overall progress and completion dates.  
