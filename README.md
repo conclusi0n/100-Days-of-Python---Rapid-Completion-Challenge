@@ -110,7 +110,7 @@ Day 	Status	Completion Date
 98	pending 	
 99	pending 	
 100	pending 	
-dowing from this repo - https://github.com/conclusi0n/100-Days-of-Python---Rapid-Completion-Challenge
+dowing from this repo - https://github.com/phillipai/100-days-of-code-python
 ## Repository Structure  
 - **Day_X/**: Contains the code and notes for day `X`.  
 - **README.md**: Tracks overall progress and completion dates.  
@@ -118,5 +118,5 @@ dowing from this repo - https://github.com/conclusi0n/100-Days-of-Python---Rapid
 ## How to Use This Repository  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/100-days-python.git
-   cd 100-days-python
+   https://github.com/conclusi0n/100-Days-of-Python---Rapid-Completion-Challenge
+   cd 100-Days-of-Python---Rapid-Completion-Challenge
