@@ -27,8 +27,8 @@ Day 	Status	Completion Date
 15	  Completed✅  	
 16	  Completed✅ 	
 17	  Completed✅  	
-18	pending 	
-19	pending 	
+18	 Completed✅ 	
+19	 Completed✅
 20	pending 	
 21	pending 	
 22	pending 	
