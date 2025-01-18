@@ -32,7 +32,7 @@ Day 	Status	Completion Date
 20	 Completed✅ 	
 21	 Completed✅ 	
 22	 Completed✅ 	
-23	pending 	
+23	 Completed✅ 	
 24	pending 	
 25	pending 	
 26	pending 	
